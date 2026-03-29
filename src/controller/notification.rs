@@ -14,3 +14,5 @@ pub fn subscribe(product_type: &str, subscriber: Json<Subscriber>) -> Result<Cre
 }
 
 
+
+
